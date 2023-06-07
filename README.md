@@ -1,11 +1,19 @@
 # 노마드코더 disney api
 노마드 코더에서 제공하는 디즈니 api를 가져와서 
 typescript를 사용하고 router 설정,
-useQuery를 활용해서 fetch 사용하기
+
+useQuery를 활용해서 fetch기능 사용하기
+#### useQuery에 useParams로 얻은 정보 넣어서 fetch 요청
+<img src="https://github.com/KKKHun2/disney-api/assets/105702862/286b1565-1371-404d-bed9-97f24a1f58db"  width="750" height="500"/>
+
+### api.ts
+<img src="https://github.com/KKKHun2/disney-api/assets/105702862/57529703-5859-4bbb-a340-705709311215"  width="750" height="500"/>                                                                                                                
+
+
 
 <div align=center><h1>📚 FE STACKS</h1></div>
 
-<div align=center>
+<div align=left>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white">
@@ -14,11 +22,10 @@ useQuery를 활용해서 fetch 사용하기
 
 
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-
-</br>
+  
 
 <img src="https://img.shields.io/badge/Recoil-61DAFB?style=for-the-badge&logo=Recoil&logoColor=white">
-
+<img src="https://img.shields.io/badge/useParams-273c75?style=for-the-badge&logo=useParams&logoColor=white">
 <img src="https://img.shields.io/badge/ReactQuery-000000?style=for-the-badge&logo=ReactQuery&logoColor=white">
 
 </div>
